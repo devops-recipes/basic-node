@@ -1,7 +1,8 @@
 
 # Continuous Integration for a Node JS application
-[![Run Status](https://api.shippable.com/projects/588579c63b653a0f00fa68d3/badge?branch=master)](https://app.shippable.com/projects/588579c63b653a0f00fa68d3)
-[![Coverage Badge](https://api.shippable.com/projects/588579c63b653a0f00fa68d3/coverageBadge?branch=master)](https://app.shippable.com/projects/588579c63b653a0f00fa68d3)
+[![Run Status](https://api.shippable.com/projects/5984cd90063f5c0700176c2d/badge?branch=master)](https://app.shippable.com/github/ns-phennessy/basic-node)
+[![Coverage Badge](https://api.shippable.com/projects/5984cd90063f5c0700176c2d/coverageBadge?branch=master)](https://app.shippable.com/github/ns-phennessy/basic-node)
+
 
 A simple Node JS application with unit tests and coverage reports using mocha
 and istanbul.
