@@ -14,7 +14,7 @@
     "ip": "^1.1.4",
     "istanbul": "^0.4.5",
     "mocha": "^3.2.0",
-    "mocha-junit-reporter": "^1.13.0",
+    "mocha-junit-reporter": "1.13.x",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0",
     "spec-xunit-file": "0.0.1-3",
