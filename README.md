@@ -18,10 +18,10 @@ and istanbul.
 ## CI Reports on Shippable
 
 ### CI Console Output
-![CI Console Output](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/console.jpg)
+![CI Console Output](https://github.com/devops-recipes/basic-node/blob/master/public/resources/images/console.jpg)
 
 ### CI Test Report
-![CI Test Report](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/tests.jpg)
+![CI Test Report](https://github.com/devops-recipes/basic-node/blob/master/public/resources/images/tests.jpg)
 
 ### CI Coverage Report
-![CI Coverage Report](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/coverage.jpg)
+![CI Coverage Report](https://github.com/devops-recipes/basic-node/blob/master/public/resources/images/coverage.jpg)
