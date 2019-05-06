@@ -6,6 +6,8 @@
 A simple Node JS application with unit tests and coverage reports using mocha
 and istanbul.
 
+'Test - orf'
+
 ![AyeAye](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/captain.png)
 
 ## Run CI for this repo on Shippable
