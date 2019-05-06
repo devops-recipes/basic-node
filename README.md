@@ -7,6 +7,7 @@ A simple Node JS application with unit tests and coverage reports using mocha
 and istanbul.
 
 'Test - orf'
+'Another test'
 
 ![AyeAye](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/captain.png)
 
