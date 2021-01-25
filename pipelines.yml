@@ -1,0 +1,21 @@
+esources:
+  - name: basic_node_repo
+    type: GitRepo
+    configuration:
+      gitProvider: manishas_github
+      path: devops-recipes/basic-node
+      
+pipelines:
+  - name: basic_node_pipeline
+    steps:
+      - name: build
+        type: Bash
+        configuration:
+          inputResources:
+            - name: basic_node_repo
+        execution:
+          onExecute:
+            - cd $res_basic_node_repo_resourcePath
+            - npm install
+            - $res_basic_node_repo_resourcePath/node_modules/.bin/mocha --recursive "tests/**/*.spec.js" -R mocha-junit-reporter --reporter-options mochaFile=testresults.xml
+            - save_tests testresults.xml
