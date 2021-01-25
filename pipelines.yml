@@ -1,4 +1,4 @@
-esources:
+resources:
   - name: basic_node_repo
     type: GitRepo
     configuration:
