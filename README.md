@@ -1,5 +1,8 @@
 
 # Continuous Integration for a Node JS application
+
+THIS IS A TEST TO SEE IF WE USE THE RIGHT BRANCH
+
 [![Run Status](https://api.shippable.com/projects/58e6d62aeb789d070092ee2e/badge?branch=master)](https://app.shippable.com/github/devops-recipes/basic-node)
 [![Coverage Badge](https://api.shippable.com/projects/58e6d62aeb789d070092ee2e/coverageBadge?branch=master)](https://app.shippable.com/github/devops-recipes/basic-node)
 
