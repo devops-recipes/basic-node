@@ -23,5 +23,5 @@ and istanbul.
 ### CI Test Report
 ![CI Test Report](https://github.com/devops-recipes/basic-node/blob/master/public/resources/images/tests.jpg)
 
-### CI Coverage Report
+### CI Coverage Reports
 ![CI Coverage Report](https://github.com/devops-recipes/basic-node/blob/master/public/resources/images/coverage.jpg)
