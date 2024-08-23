@@ -4,6 +4,8 @@ kind: Component
 metadata:
   name: basic-node
   description: Add basic-node to IDP
+  annotations:
+    backstage.io/techdocs.ref: dir: url:https://github.com/P0010/mkdocs.yml
 
 spec:
   type: service
