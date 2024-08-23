@@ -1,0 +1,4 @@
+site_name: 'basic-node'
+
+nav:
+  - Home: README.md
