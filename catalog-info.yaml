@@ -5,4 +5,7 @@ metadata:
   name: basic-node
   description: Add basic-node to IDP
 
-    
+spec:
+  type: service
+  lifecycle: production
+  owner: manisha.sahasrabudhe@harness.io
